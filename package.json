@@ -1,0 +1,16 @@
+{
+  "name": "yami",
+  "version": "0.1.0",
+  "description": "Javascript Library for Arrays and Objects",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "Array",
+    "Objects",
+    "Duplicates"
+  ],
+  "author": "Jexulie",
+  "license": "MIT"
+}
